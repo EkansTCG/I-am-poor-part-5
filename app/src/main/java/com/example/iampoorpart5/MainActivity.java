@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 verifyRichness(button1);// calls the method verify richness on button1
             }
-        });
+        });// test
     }
 
     public void verifyRichness(Button button1) {
